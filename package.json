@@ -1,0 +1,25 @@
+{
+  "name": "type-commons",
+  "version": "0.1.0",
+  "description": "A lightweight utility module with functions to determine the type (object, string, number or array) of variable as well as object nullity",
+  "homepage": "https://github.com/darchanjo/type-commons",
+  "author": {
+    "name": "David Archanjo",
+    "email": "david.archanjoybr@gmail.com",
+    "url": "https://www.linkedin.com/in/darchanjo"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darchanjo/type-commons"
+  },
+  "bugs": {
+    "email": "david.archanjoybr@gmail.com",
+    "url": "https://github.com/darchanjo/type-commons/issues"
+  },
+  "main": "lib/index.js"
+}
